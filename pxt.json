@@ -1,0 +1,57 @@
+{
+    "name": "Game",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Card Kit": "github:AlexSzeto/card-kit#v0.4.0",
+        "arcade-fancy-text": "github:Riknoll/arcade-fancy-text#v0.2.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "arcade-premium-life": "github:jwunderl/arcade-premium-life#v0.2.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.59",
+        "tag": "v2.0.59",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/9ac32db04cae4ac1aca1d3d49e26192f6d6fac23",
+        "target": "2.0.61",
+        "pxt": "11.3.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#d45362",
+        "#e8958b",
+        "#cc8945",
+        "#f5dc8c",
+        "#417d53",
+        "#5dd48f",
+        "#5162c2",
+        "#6cadeb",
+        "#b56edd",
+        "#8f3f29",
+        "#612431",
+        "#c0fac2",
+        "#24325e",
+        "#1b1221"
+    ]
+}
